@@ -1,0 +1,106 @@
+var chip = {
+color: "tan",
+brand: "Sun Chip",
+flavor: "Garden Salsa"
+isHealthy: false,
+snacking: function() {
+    console.log("I love" + this.brand + ",they are the bomb");
+  }
+}
+
+
+var treePoster = {
+  color: "white",
+  graphic: "trees",
+  size: 6
+  numberOfTrees:5
+  admire: function() {
+    console.log("That" + this.color + "poster of" + numberOfTrees + graphic);
+  }
+}
+
+var redBull = {
+  color: "red",
+  brand: "Cranberry Red Bull",
+  graphic: "bull",
+  isCoffee: false,
+  size: 6,
+  isHealthy: false
+  canIEatIt: function () {
+  if (this.isEdible) {
+    console.log("Yes, its safe to eat.");
+  } else {
+    console.log("No, you gonna kick the bucket")
+  }
+}
+
+
+var door= {
+  color: "whtie",
+  open: function () {
+
+  }
+
+}
+
+
+
+var muffin = {
+  color: "tan",
+  brand: "Costco",
+  graphic: "no graphic",
+  flavor: "popyseed",
+  isHealthy: true,
+  write: function() {
+    console.log("This" + flavor + "muffin is amazeballs.")
+  }
+}
+
+var girlPoster = {
+  color: "black",
+  brand: "Salt Lake City",
+  graphic: "pale girl",
+  write: function() {
+    console.log("I think the poster of the" + this.graphic + "from" + this.brand + "is nice.")
+  }
+}
+
+var mountainDewCan = {
+  color: "green",
+  brand: "Mountain Dew",
+  isRedBull: false,
+  numberOfColors: 6,
+  isHealthy: false,
+  write: function() {
+    console.log(" I think" + this.brand + "is not as good as Red Bull because it`s" + this.color)
+}
+
+var myJacket = {
+  color: "blue",
+  brand: "Natural Retreats",
+  isWarm: true,
+  isFree: false,
+  numberOfColors: 2
+  write: function() {
+    console.log("This" + this.color "jacket is dope.")
+  }
+}
+
+var ipad= {
+  color: "white",
+
+  write: function() {
+    console.log("My ipad is my love.")
+  }
+}
+
+
+
+var myKeys= {
+  color: "black", "silver", "gold", "red";
+  brand: "University of Utah", "Honda"
+  write: function() {
+    console.log("My keys" )
+  }
+
+}

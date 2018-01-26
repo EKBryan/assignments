@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+    font-size: 0px;
+}
+
+.lightPink {
+  display: inline-block;
+  border:10px;
+  box-sizing: border-box;
+  color:#F5C6D6;
+  height: 10px;
+  width: 20px;
+  padding: 20px;
+  margin: 20px;
+  font-size: 0px;
+}
+
+
+.darkPink{
+  display: inline-block;
+  border:10px;
+  box-sizing: border-box;
+  background-color: #EE2E84;
+  height: 10px;
+  width: 10px;
+  padding: 10px;
+  margin: 10px;
+  font-size: 0px;
+}
+
+
+.lightBlue{
+  display: inline-block;
+  color: #85CFD8;
+  height: 10px;
+  width: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+
+
+.lightGreen{
+  color: #8DC63F;
+  display:inline-block;
+  height: 10px;
+  width: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+
+
+.lightOrange{
+  color: #E76E34
+  display: inline-block;
+  border:10px;
+  box-sizing: border-box;
+  height: 10px;
+  width: 10px;
+  padding: 10px;
+  margin: 10px;
+  font-size: 0px;
+}

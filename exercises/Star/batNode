@@ -1,0 +1,8 @@
+var parrotTrouble=function(talking, hour) {
+  if (hour < 7) return true
+  } else if {
+    (hour > 20) return true
+  } else {
+    return false
+  }
+}

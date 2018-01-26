@@ -1,0 +1,43 @@
+h1 {
+  align: center
+}
+
+h2 {
+  align: center
+
+}
+
+h3 {
+  align: center
+}
+
+
+.newspaper {
+  column-count: 3
+}
+
+
+.fancyClassifiedsHeads {
+  font-family: serif;
+  font-size: 40px
+
+}
+
+.articleLead {
+  font-size: 50px
+  font-family: "Times New Roman"
+  text-transform:capitalize;
+}
+
+.classifiedAddsText {
+  border-color: Red;
+  border-width: medium;
+  border-style: groove;
+}
+
+.dailyShireLabel {
+  text-decoration: underline;
+  font-style: italic;
+  font-size: 80px
+  font-family:monospace;
+}

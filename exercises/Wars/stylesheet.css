@@ -1,0 +1,50 @@
+
+
+
+.newspaper {
+  column-count: 3;
+  column-gap: 40px;
+}
+
+
+.fancyClassifiedsHeads {
+  font-family: serif;
+  font-size: 40px;
+  text-align: center;
+
+}
+
+.dailyLead {
+  font-size: 90px
+  font-family:cursive;
+  text-transform:capitalize;
+  text-align: center;
+}
+
+.classifiedAddsText {
+  columns
+  border-color: Red;
+  border-width: medium;
+  border-style: groove;
+}
+
+.dailyShireLabel {
+  text-decoration: underline;
+  font-style: italic;
+  font-size: 80px;
+  font-family:monospace;
+  text-align: center;
+}
+
+.boxy {
+  display: inline-block;
+  width: 200px
+  height: 100 px
+  margin:1em;
+
+}
+
+.articleSubHeads {
+  font-size: 40px
+
+}
